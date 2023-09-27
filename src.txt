@@ -9,3 +9,5 @@ code by dev3
 
 print('this is  sample proj')
 print('abcxyz')
+
+task2 by nik
